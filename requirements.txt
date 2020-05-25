@@ -1,8 +1,8 @@
 numpy
 matplotlib
 seaborn
-import re
-import time
+re
+time
 datetime
 urllib
 bs4
