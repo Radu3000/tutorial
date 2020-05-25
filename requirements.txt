@@ -1,10 +1,2 @@
 numpy
-matplotlib.pyplot
-seaborn
-re
-time
-datetime
-matplotlib.dates
-matplotlib.ticker
-urllib.request
 bs4
