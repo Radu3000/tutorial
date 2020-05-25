@@ -1,2 +1,8 @@
 numpy
+matplotlib
+seaborn
+import re
+import time
+datetime
+urllib
 bs4
