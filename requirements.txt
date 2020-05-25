@@ -1,8 +1,5 @@
 numpy
 matplotlib
 seaborn
-re
-time
-datetime
 urllib
 bs4
