@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 bs4
+spacy
+displacy
